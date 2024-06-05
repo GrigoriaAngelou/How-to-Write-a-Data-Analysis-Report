@@ -5,4 +5,4 @@ Over the last few years , analytical reporting has become an important part of b
 
 But which are the steps to create a report? How can you make a report that stands out?
 
-**Discover more:** [here](https://grigoriaangelou.github.io/.....) 
+**Discover more:** [here](https://grigoriaangelou.github.io/How-to-Write-a-Data-Analysis-Report/)
